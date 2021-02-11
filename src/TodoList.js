@@ -1,7 +1,7 @@
 import React from 'react';
 import {Todo} from './Todo.js';
 
-class TodoList extends React.Component{
+export class TodoList extends React.Component{
     render(){
         var keyId=0;
         
@@ -13,5 +13,5 @@ class TodoList extends React.Component{
         ));
     }
 }
-export default TodoList;
+
 
