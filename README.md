@@ -1,3 +1,11 @@
+# intro to react
+
+para la ejecutar:
+
+- npm install (para introducir todos los modulos y construir el proyecto)
+- npm start (para ejecutarlo)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
